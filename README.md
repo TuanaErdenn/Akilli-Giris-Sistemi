@@ -74,7 +74,7 @@ Arduino Mega 2560 kullanılarak geliştirilen bu proje, RFID kart ve parmak izi 
 ---
 
 ## Devre Şeması
-Devre bağlantı görseli: `fritzing.png`
+![RFID Devre](fritzing.png)
 
 ---
 
