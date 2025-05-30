@@ -68,8 +68,8 @@ Arduino Mega 2560 kullanılarak geliştirilen bu proje, RFID kart ve parmak izi 
 ---
 
 ##  Kod Dosyaları
-- `KayıtModu.ino` → Kişi ekleme, silme, listeleme, EEPROM'a yazma
-- `KontrolModu.ino` → Giriş doğrulama ve servo motor kontrolü
+- `KayıtSistemKodu.ino` → Kişi ekleme, silme, listeleme, EEPROM'a yazma
+- `KontrolSistemKodu.ino` → Giriş doğrulama ve servo motor kontrolü
 
 ---
 
